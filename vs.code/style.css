@@ -1,0 +1,13 @@
+body {
+    padding: 10px;
+}
+
+@keyframes shadows {
+    0% {text-shadow: black 0 0 4px;}
+    50% {text-shadow: red 0 0 4px;}
+    100% {text-shadow: blue 0 0 4px;}
+}
+
+.shadows {
+    animation: shadows 4s infinite;
+}

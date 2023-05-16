@@ -24,3 +24,15 @@ const person2= {
 let {Name, age, isUser, firstName, selectedColor}= person2
 
 console.log (Name,age,isUser,firstName,selectedColor)
+
+// Day3 LMS
+
+const Day3= {
+    Firstname: 'Random',
+    surname: 'Person',
+    Birthdate: 20,
+}
+
+let {Firstname,surname,Birthdate}= Day3
+
+console.log (Firstname,surname,Birthdate)
